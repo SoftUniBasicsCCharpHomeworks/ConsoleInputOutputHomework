@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\10FibonacciNumbers\bin\Debug\10FibonacciNumbers.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\10FibonacciNumbers\obj\Debug\10FibonacciNumbers.pdb

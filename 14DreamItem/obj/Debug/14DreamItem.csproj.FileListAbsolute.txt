@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\ConsoleInputOutput\14DreamItem\bin\Debug\14DreamItem.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\ConsoleInputOutput\14DreamItem\bin\Debug\14DreamItem.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\ConsoleInputOutput\14DreamItem\bin\Debug\14DreamItem.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\ConsoleInputOutput\14DreamItem\obj\Debug\14DreamItem.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\ConsoleInputOutput\14DreamItem\obj\Debug\14DreamItem.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\ConsoleInputOutput\14DreamItem\obj\Debug\14DreamItem.pdb

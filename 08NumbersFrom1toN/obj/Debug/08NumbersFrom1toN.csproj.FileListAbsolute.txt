@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\08NumbersFrom1toN\bin\Debug\08NumbersFrom1toN.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\08NumbersFrom1toN\bin\Debug\08NumbersFrom1toN.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\08NumbersFrom1toN\bin\Debug\08NumbersFrom1toN.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\08NumbersFrom1toN\obj\Debug\08NumbersFrom1toN.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\08NumbersFrom1toN\obj\Debug\08NumbersFrom1toN.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\08NumbersFrom1toN\obj\Debug\08NumbersFrom1toN.pdb

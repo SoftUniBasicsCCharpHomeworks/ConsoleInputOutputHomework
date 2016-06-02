@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\ConsoleInputOutput\13CurrencyCheck\bin\Debug\13CurrencyCheck.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\ConsoleInputOutput\13CurrencyCheck\bin\Debug\13CurrencyCheck.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\ConsoleInputOutput\13CurrencyCheck\bin\Debug\13CurrencyCheck.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\ConsoleInputOutput\13CurrencyCheck\obj\Debug\13CurrencyCheck.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\ConsoleInputOutput\13CurrencyCheck\obj\Debug\13CurrencyCheck.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\ConsoleInputOutput\13CurrencyCheck\obj\Debug\13CurrencyCheck.pdb

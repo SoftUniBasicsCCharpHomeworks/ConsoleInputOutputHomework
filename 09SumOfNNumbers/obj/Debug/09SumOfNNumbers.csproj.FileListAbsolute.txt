@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\09SumOfNNumbers\bin\Debug\09SumOfNNumbers.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\09SumOfNNumbers\bin\Debug\09SumOfNNumbers.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\09SumOfNNumbers\bin\Debug\09SumOfNNumbers.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\09SumOfNNumbers\obj\Debug\09SumOfNNumbers.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\09SumOfNNumbers\obj\Debug\09SumOfNNumbers.pdb

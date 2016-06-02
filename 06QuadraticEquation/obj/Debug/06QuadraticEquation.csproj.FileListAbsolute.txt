@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\06QuadraticEquation\bin\Debug\06QuadraticEquation.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\06QuadraticEquation\obj\Debug\06QuadraticEquation.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\06QuadraticEquation\obj\Debug\06QuadraticEquation.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\06QuadraticEquation\obj\Debug\06QuadraticEquation.pdb

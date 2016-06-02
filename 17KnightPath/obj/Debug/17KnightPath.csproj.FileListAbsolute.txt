@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\ConsoleInputOutput\17KnightPath\bin\Debug\17KnightPath.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\ConsoleInputOutput\17KnightPath\obj\Debug\17KnightPath.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\ConsoleInputOutput\17KnightPath\bin\Debug\17KnightPath.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\ConsoleInputOutput\17KnightPath\bin\Debug\17KnightPath.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\ConsoleInputOutput\17KnightPath\obj\Debug\17KnightPath.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\ConsoleInputOutput\17KnightPath\obj\Debug\17KnightPath.pdb

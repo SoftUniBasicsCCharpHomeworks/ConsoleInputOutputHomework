@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\11NumbersDividableByGivenNumber\bin\Debug\11NumbersDividableByGivenNumber.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\11NumbersDividableByGivenNumber\bin\Debug\11NumbersDividableByGivenNumber.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\11NumbersDividableByGivenNumber\bin\Debug\11NumbersDividableByGivenNumber.pdb
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\11NumbersDividableByGivenNumber\obj\Debug\11NumbersDividableByGivenNumber.exe
+c:\users\pc\documents\visual studio 2015\Projects\ConsoleInputOutput\11NumbersDividableByGivenNumber\obj\Debug\11NumbersDividableByGivenNumber.pdb

@@ -1,0 +1,6 @@
+C:\Users\pc\Documents\Visual Studio 2015\Projects\ConsoleInputOutput\15MagicWand\bin\Debug\15MagicWand.exe.config
+C:\Users\pc\Documents\Visual Studio 2015\Projects\ConsoleInputOutput\15MagicWand\bin\Debug\15MagicWand.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\ConsoleInputOutput\15MagicWand\bin\Debug\15MagicWand.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\ConsoleInputOutput\15MagicWand\obj\Debug\15MagicWand.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\ConsoleInputOutput\15MagicWand\obj\Debug\15MagicWand.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\ConsoleInputOutput\15MagicWand\obj\Debug\15MagicWand.pdb
